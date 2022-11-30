@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+        <LangVersion>7.3</LangVersion>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>Guards</Title>
+        <Authors>Dan Nielsen</Authors>
+        <Description>Simple parameter guards</Description>
+        <Copyright>2022 Dan Nielsen</Copyright>
+        <PackageProjectUrl>https://github.com/landlines/Guards</PackageProjectUrl>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <RepositoryUrl>https://github.com/landlines/Guards</RepositoryUrl>
+        <RepositoryType>Git</RepositoryType>
+        <PackageVersion>1.3.0</PackageVersion>
+    </PropertyGroup>
+
+</Project>
